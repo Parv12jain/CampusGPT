@@ -50,3 +50,7 @@ streamlit
 
 tqdm
 requests
+
+
+
+altair==4.2.2
